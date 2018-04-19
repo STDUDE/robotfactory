@@ -1,7 +1,6 @@
 package com.api.robotfactory.web;
 
 import com.api.robotfactory.domain.Robot;
-import com.api.robotfactory.domain.RobotFactory;
 import com.api.robotfactory.domain.TaskType;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -29,6 +28,7 @@ public class RobotFactoryMainController {
 
         if(robots.size() == 0) {
             //заполнить каждым типом
+
 
         }
 
