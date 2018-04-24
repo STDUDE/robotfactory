@@ -19,8 +19,6 @@
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="resources/css/bootstrap.min.css" type="text/css" media="screen"/>
-    <link rel="stylesheet" href="resources/css/bootstrap-datepicker3.min.css" type="text/css" media="screen"/>
-
 
     <!-- Customizable CSS -->
     <link rel="stylesheet" href="resources/css/style.css" type="text/css" media="screen">
@@ -67,39 +65,6 @@
                     </tbody>
                 </table>
             </section>
-        </c:if>
-        <hr>
-        <c:if test="${!empty performers}">
-            <div id="filter-form">
-                <form method="get" id="form" action="/">
-                    <section>
-                        <h2 class="content bgcolor-4">Dates</h2>
-                        <div class="input-daterange input-group" id="datepicker">
-                            <input type="text" class="input-sm form-control" id="start" name="start"/>
-                            <span class="input-group-addon">to</span>
-                            <input type="text" class="input-sm form-control" id="end" name="end"/>
-                        </div>
-                    </section>
-                    <section>
-                        <h2 class="content bgcolor-4">Performer</h2>
-                        <select id="performer" name="performer">
-                            <option><spring:message code="performers.list.first"/></option>
-                            <c:forEach items="${performers}" var="performer" varStatus="loop">
-                                <option>${performer}</option>
-                            </c:forEach>
-                        </select>
-                    </section>
-                    <section>
-                        <h2 class="content bgcolor-4"><spring:message code="commons.timePeriod"/></h2>
-                        <select id="timePeriod">
-                            <c:forEach items="${timePeriod}" var="period" varStatus="loop">
-                                <option value="period${loop.index+1}" id="period${loop.index+1}">${period}</option>
-                            </c:forEach>
-                        </select>
-                    </section>
-                    <input id="show" type="submit" class="button" value="Show">
-                </form>
-            </div>
         </c:if>
     </div>
 </div>

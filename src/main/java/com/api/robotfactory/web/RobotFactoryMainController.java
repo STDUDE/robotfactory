@@ -15,7 +15,6 @@ import java.util.Map;
 @RestController
 @Configuration
 public class RobotFactoryMainController {
-    private RobotFactory robotFactory = new RobotFactory();
     private ArrayList<Robot> robots = new ArrayList<>();
 
     RobotFactoryMainController() {
