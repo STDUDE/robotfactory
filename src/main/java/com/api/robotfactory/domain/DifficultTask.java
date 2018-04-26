@@ -6,16 +6,16 @@ import java.util.List;
 public class DifficultTask extends Task {
 
     public DifficultTask(int type, String subject, boolean broadcasting, Date deadline) {
-        super(type, subject, broadcasting, deadline);
+
     }
 
     @Override
-    protected boolean execute(List<Robot> robots) {
-        return false;
+    protected void execute(List<Robot> robots) {
+        return;
     }
 
     @Override
-    protected boolean execute(List<Robot> robots, int id) {
-        return false;
+    protected void execute(List<Robot> robots, int id) {
+        return;
     }
 }
