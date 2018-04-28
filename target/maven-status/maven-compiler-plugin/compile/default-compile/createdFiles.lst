@@ -1,10 +1,10 @@
-com\api\robotfactory\domain\Task.class
-com\api\robotfactory\domain\KillTask.class
-com\api\robotfactory\domain\TaskType.class
-com\api\robotfactory\Application.class
 com\api\robotfactory\domain\SmartRobot.class
-com\api\robotfactory\domain\DifficultTask.class
-com\api\robotfactory\domain\Robot.class
-com\api\robotfactory\domain\SillyRobot.class
 com\api\robotfactory\domain\WaitTask.class
 com\api\robotfactory\web\RobotFactoryMainController.class
+com\api\robotfactory\domain\SillyRobot.class
+com\api\robotfactory\domain\KillTask.class
+com\api\robotfactory\domain\Task.class
+com\api\robotfactory\domain\DifficultTask.class
+com\api\robotfactory\Application.class
+com\api\robotfactory\domain\TaskType.class
+com\api\robotfactory\domain\Robot.class

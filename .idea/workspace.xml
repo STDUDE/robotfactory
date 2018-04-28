@@ -2,33 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="835f3775-1896-4c3d-9c52-a3c5f6e03f44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/images/g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/images/k.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.standalone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.standalone.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.standalone.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker.standalone.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.standalone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.standalone.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.standalone.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-datepicker3.standalone.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap-datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/jquery-3.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.az.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.bg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.bs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.cs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.cy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.da.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.de.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.el.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.en-AU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.en-GB.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.eo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.es.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.et.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.fa.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.fi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.fo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.fr-CH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.fr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.gl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.he.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.hr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.hu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.hy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.id.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.is.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.it-CH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.it.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ja.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ka.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.kh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.kk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ko.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.kr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.lt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.lv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.me.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.mk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.mn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ms.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.nb.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.nl-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.nl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.no.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.pl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.pt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.rs-latin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.rs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.ru.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sr-latin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.sw.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.th.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.tr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.uk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.vi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/locales/bootstrap-datepicker.zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/pages/index.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-0.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-0.1.0.jar.original" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/DifficultTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/KillTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/Robot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/SillyRobot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/SmartRobot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/Task.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/TaskType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/domain/WaitTask.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/api/robotfactory/web/RobotFactoryMainController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robotfactory.iml" afterPath="$PROJECT_DIR$/robotfactory.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/DifficultTask.java" afterPath="$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/DifficultTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/error400.jsp" afterPath="$PROJECT_DIR$/src/main/resources/pages/error400.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/error403.jsp" afterPath="$PROJECT_DIR$/src/main/resources/pages/error403.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/error404.jsp" afterPath="$PROJECT_DIR$/src/main/resources/pages/error404.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/error500.jsp" afterPath="$PROJECT_DIR$/src/main/resources/pages/error500.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,8 +176,8 @@
       <file leaf-file-name="RobotFactoryMainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/web/RobotFactoryMainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="-224">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,18 +185,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.xml">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="17">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hr.bat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hr.bat">
+      <file leaf-file-name="messages.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -95,68 +205,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DifficultTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/DifficultTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-              <folding>
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="utils.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/utils.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/Robot.java">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="77">
+              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="error400.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error400.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="-493">
+              <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error403.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error403.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error404.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error404.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error500.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error500.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -202,6 +305,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/DifficultTask.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/pages/error400.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/pages/error403.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/pages/error404.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/pages/error500.jsp" />
       </list>
     </option>
   </component>
@@ -262,8 +371,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -328,24 +438,28 @@
               <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robotfactory" type="b2602c69:ProjectViewProjectNode" />
@@ -355,7 +469,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -374,15 +487,16 @@
     <property name="RequestMappingsPanelOrder2" value="2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Projects\robotfactory\src\main\webapp\WEB-INF" />
-      <recent name="F:\Projects\robotfactory\src\main\webapp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Projects\robotfactory\src\main\resources" />
       <recent name="F:\Projects\robotfactory\src\main\webapp\resources" />
       <recent name="F:\Projects\robotfactory\src\main\webapp.WEB-INF" />
       <recent name="F:\Projects\robotfactory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\robotfactory\src\main\resources" />
+      <recent name="F:\Projects\robotfactory\src\main\webapp\WEB-INF" />
+      <recent name="F:\Projects\robotfactory\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,20 +618,20 @@
       <workItem from="1524170697622" duration="7309000" />
       <workItem from="1524309182249" duration="9084000" />
       <workItem from="1524681945767" duration="2559000" />
-      <workItem from="1524772358001" duration="3341000" />
+      <workItem from="1524772358001" duration="3494000" />
+      <workItem from="1524854248424" duration="4865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39271000" />
+    <option name="totallyTimeSpent" value="44289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18003026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17473525" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -529,15 +643,15 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5450082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18494272" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.290469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -559,51 +673,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/SmartRobot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/TaskType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/WaitTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#411#412#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/DifficultTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#567#568#0" expanded="false" />
-            <element signature="e#597#598#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/web/RobotFactoryMainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -619,7 +688,7 @@
         <state relative-caret-position="153">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -629,7 +698,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -692,7 +761,7 @@
         <state relative-caret-position="153">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -745,7 +814,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -800,13 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4af0ee32-58a3-4abf-8358-702786ea79ff/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -820,7 +882,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,12 +948,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/domain/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -901,35 +996,9 @@
         <state relative-caret-position="187">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#309#310#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/utils.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -949,15 +1018,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/utils.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -965,20 +1034,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/api/robotfactory/web/RobotFactoryMainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="-224">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="77">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error400.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error403.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pages/error500.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
       </provider>
